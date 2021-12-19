@@ -1,4 +1,4 @@
 # Документация по API
-* [login](login.md)
+* [addmedicine](addmedicine.md)
 
 
