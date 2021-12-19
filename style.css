@@ -1,0 +1,45 @@
+.us1  {
+  width: 50px;
+  left: 1400px;
+  top: 100px;
+  position: absolute;
+}
+
+.us2  {
+  position: absolute;
+  z-index: 2;
+
+  left: 1440px;
+  top: 100px;
+}
+.us3  {
+  position: absolute;
+  z-index: 1;
+
+  left: 20px;
+  top: 100px;
+}
+
+.photo
+{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+
+}
+li {
+  list-style-type: none;
+}
+
+.showmed {
+  margin-top: 100px;
+  margin-left: 200px;
+  color: white;
+}
+.btn-danger {
+  margin-top: 100px;
+  margin-left: 200px;
+}
+
+.conteiner {
+}
